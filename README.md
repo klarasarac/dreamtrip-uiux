@@ -42,12 +42,12 @@ UI/UX Designer
 
 ## Screenshots
 
-(Add your images here, for example:)
+
 
 ![Hero Section](Hero.png)
 ![Destinations](Destinations.png)
 ![How It Works](how-it-works.png)
-![Trip of the Week](trip-of-week.png)
+![Trip of the Week](trip-of-the-week.png)
 ![Footer](footer.png)
 ---
 
