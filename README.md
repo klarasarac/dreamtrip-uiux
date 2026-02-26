@@ -38,6 +38,18 @@ UI/UX Designer
 - Logical section flow
 - Responsive layout concept
 
+---
+
+## Screenshots
+
+(Add your images here, for example:)
+
+![Hero Section](Hero.png)
+![Destinations](Destinations.png)
+![How It Works](how-it-works.png)
+![Trip of the Week](trip-of-week.png)
+![Footer](footer.png)
+---
 
 ## Prototype
 https://www.figma.com/design/5SUGNEQBjLmfEOZLrImWUG/Untitled?node-id=0-1&t=GOEXJNUMcbgwlxzK-1
